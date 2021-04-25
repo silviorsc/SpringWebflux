@@ -1,4 +1,6 @@
-Executar dynamo: 
+Projeto Spring WebFlux com banco DynamoDB e testes unitários com Junit
+
+Executar dynamo:
 
  java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
  
